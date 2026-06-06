@@ -1,0 +1,26 @@
+
+{
+  "name": "VGA TECH V2",
+  "short_name": "VGA TECH",
+  "description": "Sistem Login Premium VGA Tech",
+  "start_url": "/VGA-TECH/",
+  "scope": "/VGA-TECH/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/VGA-TECH/logo/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/VGA-TECH/logo/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
